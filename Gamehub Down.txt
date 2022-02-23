@@ -1,1 +1,1 @@
-[{"image":"https://cdn.discordapp.com/attachments/881900705114357760/946145145877831720/senal-vial-metalica-prohibido-el-paso-entrada-prohibida-diametro-500-mm.png","name":"GAMEHUB CAIDO","description":"GAMEHUB CAIDO","author":"Por favor espere","script":""}]
+[{"image":"https://cdn.discordapp.com/attachments/881900705114357760/946145145877831720/senal-vial-metalica-prohibido-el-paso-entrada-prohibida-diametro-500-mm.png","name":"GAMEHUB CAIDO","description":"GAMEHUB CAIDO","author":"By: Yoda & Patrick","script":""}]
