@@ -1,4 +1,3 @@
 evon
-wrd
 krnl
 zeus
